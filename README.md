@@ -9,12 +9,8 @@
 </div>
 
 ---
-
-<table>
-  <tr>
-    <td>
-
 ## 🐈 About Me
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZqN2tucm1qYWYzaDhibXpnNnQ0dGhvZTcxMmt4Y3A0YWNydG13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kLCUC3Ntg8V3Mq7QdK/giphy.gif" />
 
 Hey! I'm a passionate backend developer who loves crafting robust server-side solutions and working with databases. When I'm not coding, you'll probably find me with my cats! 😸
 
@@ -24,20 +20,13 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 - 💻 Love working on **practical projects**, especially console applications  
 - 🎯 Always looking for new challenges and learning opportunities  
 - 📍 Based in Uruguay  
-
-  </td>
-  <td>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZqN2tucm1qYWYzaDhibXpnNnQ0dGhvZTcxMmt4Y3A0YWNydG13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kLCUC3Ntg8V3Mq7QdK/giphy.gif" width="250" alt="Cat typing gif">
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -50,6 +39,8 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
