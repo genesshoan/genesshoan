@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Shoan Genes! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Shoan Genes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Backend Developer in Training 💻 | Cat Lover 🐱 | Problem Solver 🧩
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding Cat">
-
 [![GitHub followers](https://img.shields.io/github/followers/genesshoan?style=social)](https://github.com/genesshoan)
 [![GitHub stars](https://img.shields.io/github/stars/genesshoan?style=social)](https://github.com/genesshoan)
 
@@ -13,16 +10,27 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
+
 ## 🐈 About Me
 
 Hey! I'm a passionate backend developer who loves crafting robust server-side solutions and working with databases. When I'm not coding, you'll probably find me with my cats! 😸
 
-- 🔭 Currently focused on **backend development** and **database design**
-- 🌱 Learning **Java** and **Spring Boot** to expand my backend skills
-- 🐱 Cat enthusiast (they're the best debugging partners!)
-- 💻 Love working on **practical projects**, especially console applications
-- 🎯 Always looking for new challenges and learning opportunities
-- 📍 Based in Uruguay
+- 🔭 Currently focused on **backend development** and **database design**  
+- 🌱 Learning **Java** and **Spring Boot** to expand my backend skills  
+- 🐱 Cat enthusiast (they're the best debugging partners!)  
+- 💻 Love working on **practical projects**, especially console applications  
+- 🎯 Always looking for new challenges and learning opportunities  
+- 📍 Based in Uruguay  
+
+  </td>
+  <td>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZqN2tucm1qYWYzaDhibXpnNnQ0dGhvZTcxMmt4Y3A0YWNydG13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kLCUC3Ntg8V3Mq7QdK/giphy.gif" width="250" alt="Cat typing gif">
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,16 +55,26 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 
 ## 🌱 Currently Learning
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+<table border="0" style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
 
 I'm constantly expanding my skillset! Here's what I'm working on:
 
-- **☕ Java Programming** - Deepening my understanding of OOP principles
-- **🍃 Spring Boot** - Building robust REST APIs and microservices
-- **🗄️ Advanced Database Design** - Optimization and performance tuning
-- **🏗️ Software Architecture** - Learning design patterns and best practices
+- **☕ Java Programming** – Deepening my understanding of OOP principles  
+- **🍃 Spring Boot** – Building robust REST APIs and microservices  
+- **🗄️ Advanced Database Design** – Optimization and performance tuning  
+- **🏗️ Software Architecture** – Learning design patterns and best practices  
 
-*"The best way to learn programming is by writing programs"* - and I do that with a cat on my lap! 🐱
+> *"The best way to learn programming is by writing programs"*  
+> – and I do that with a cat on my lap! 🐱
+
+</td>
+    <td style="border: none;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="280" alt="Learning with cat gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -110,7 +128,7 @@ Brief description of the project
 
 ## 🐾 Fun Facts
 
-- 🐱 I have [X] cats who supervise all my coding sessions
+- 🐱 I have one cat who supervise all my coding sessions
 - ☕ Coffee and cats make the perfect debugging environment
 - 🎮 Console applications are my favorite type of projects
 - 🧩 I love solving complex database problems
