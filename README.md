@@ -113,6 +113,23 @@ Brief description of the project
 - **Status:** In Progress/Completed
 -->
 
+### 🧮 [Sistema de Ecuaciones (C++)](https://github.com/genesshoan/SistemaEcuaciones)
+> Interfaz por consola para crear, resolver y manipular ecuaciones de primer y segundo grado.
+
+- **Tech Stack:** C++, estructuras de datos propias, ABB, persistencia con archivos `.dat`
+- **Características:** Árbol binario de búsqueda, parsing de comandos, suma y resolución de ecuaciones
+- **Estado:** Completado
+
+---
+
+### 🎮 [Torneo Nacional de Póker (C++)](https://github.com/genesshoan/PokerTournament)
+> Sistema para organizar un torneo donde cada jugador juega contra todos. Modelado con grafos y estructuras dinámicas.
+
+- **Tech Stack:** C++, grafo con matriz de adyacencia, listas enlazadas, tabla hash
+- **Características:** Registro de jugadores y partidas, estadísticas, consultas por conectividad, torneo completo
+- **Estado:** Completado
+
+
 </div>
 
 ---
