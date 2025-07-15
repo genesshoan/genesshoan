@@ -113,7 +113,7 @@ Brief description of the project
 - **Status:** In Progress/Completed
 -->
 
-### 🧮 [Sistema de Ecuaciones (C++)](https://github.com/genesshoan/SistemaEcuaciones)
+### 🧮 [Sistema de Ecuaciones (C++)](https://github.com/genesshoan/SistemaCalculadora)
 > Interfaz por consola para crear, resolver y manipular ecuaciones de primer y segundo grado.
 
 - **Tech Stack:** C++, estructuras de datos propias, ABB, persistencia con archivos `.dat`
