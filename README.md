@@ -45,7 +45,7 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ---
 
 ## 🌱 Currently Learning
-<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
+<img align="right" width=280px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
 
 I'm constantly expanding my skillset! Here's what I'm working on:
 
