@@ -55,7 +55,7 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 - **🏗️ Software Architecture** – Learning design patterns and best practices  
 
 > *"The best way to learn programming is by writing programs"*  
-> – and I do that with a cat on my lap! 🐱
+> – and I do that with a cat on my lap! 🐱  
 
 ---
 
