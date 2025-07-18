@@ -45,10 +45,7 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ---
 
 ## 🌱 Currently Learning
-
-<table border="0" style="border: none;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
 
 I'm constantly expanding my skillset! Here's what I'm working on:
 
@@ -59,13 +56,6 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 
 > *"The best way to learn programming is by writing programs"*  
 > – and I do that with a cat on my lap! 🐱
-
-</td>
-    <td style="border: none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="280" alt="Learning with cat gif">
-    </td>
-  </tr>
-</table>
 
 ---
 
