@@ -103,10 +103,6 @@ Brief description of the project
 - **Status:** In Progress/Completed
 -->
 
-## 🚀 Projects
-
-<div align="center">
-
 ### 🎮 [Simple Tic Tac Toe with Java](https://github.com/genesshoan/Simple-TicTacToe-with-Java)
 > Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.
 
@@ -131,9 +127,6 @@ Brief description of the project
 - **Tech Stack:** C++, adjacency matrix graph, linked lists, hash table
 - **Features:** Player and match registration, statistics, connectivity queries, complete tournament system
 - **Status:** Completed
-
-</div>
-
 
 </div>
 
