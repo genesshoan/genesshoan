@@ -45,7 +45,7 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ---
 
 ## 🌱 Currently Learning
-<img align="right" width=280px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
+<img align="right" width=220px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
 
 I'm constantly expanding my skillset! Here's what I'm working on:
 
@@ -103,21 +103,36 @@ Brief description of the project
 - **Status:** In Progress/Completed
 -->
 
-### 🧮 [Sistema de Ecuaciones (C++)](https://github.com/genesshoan/SistemaCalculadora)
-> Interfaz por consola para crear, resolver y manipular ecuaciones de primer y segundo grado.
+## 🚀 Projects
 
-- **Tech Stack:** C++, estructuras de datos propias, ABB, persistencia con archivos `.dat`
-- **Características:** Árbol binario de búsqueda, parsing de comandos, suma y resolución de ecuaciones
-- **Estado:** Completado
+<div align="center">
+
+### 🎮 [Simple Tic Tac Toe with Java](https://github.com/genesshoan/Simple-TicTacToe-with-Java)
+> Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.
+
+- **Tech Stack:** Java, OOP, AI algorithms, input validation
+- **Features:** Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation
+- **Status:** Completed
 
 ---
 
-### 🎮 [Torneo Nacional de Póker (C++)](https://github.com/genesshoan/PokerTournament)
-> Sistema para organizar un torneo donde cada jugador juega contra todos. Modelado con grafos y estructuras dinámicas.
+### 🧮 [Equation System Calculator (C++)](https://github.com/genesshoan/SistemaCalculadora)
+> Console interface for creating, solving and manipulating first and second degree equations.
 
-- **Tech Stack:** C++, grafo con matriz de adyacencia, listas enlazadas, tabla hash
-- **Características:** Registro de jugadores y partidas, estadísticas, consultas por conectividad, torneo completo
-- **Estado:** Completado
+- **Tech Stack:** C++, custom data structures, Binary Search Tree, file persistence (.dat)
+- **Features:** BST implementation, command parsing, equation solving and arithmetic operations
+- **Status:** Completed
+
+---
+
+### 🎮 [National Poker Tournament (C++)](https://github.com/genesshoan/PokerTournament)
+> Tournament system where each player competes against all others. Modeled with graphs and dynamic structures.
+
+- **Tech Stack:** C++, adjacency matrix graph, linked lists, hash table
+- **Features:** Player and match registration, statistics, connectivity queries, complete tournament system
+- **Status:** Completed
+
+</div>
 
 
 </div>
