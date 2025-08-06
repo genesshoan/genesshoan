@@ -104,6 +104,13 @@ Brief description of the project
 - **Features:** Key features
 - **Status:** In Progress/Completed
 -->
+### 📋 [Task Tracker](https://github.com/genesshoan/task-tracker)
+> Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.
+- **Tech Stack:** Java 8+, JSON serialization, file I/O, Gradle build system, JUnit testing
+- **Features:** Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite
+- **Status:** Completed
+
+---
 
 ### 🎮 [Simple Tic Tac Toe with Java](https://github.com/genesshoan/Simple-TicTacToe-with-Java)
 > Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.
