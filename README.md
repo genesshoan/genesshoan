@@ -104,6 +104,14 @@ Brief description of the project
 - **Features:** Key features
 - **Status:** In Progress/Completed
 -->
+### 📋 [Expense Tracker CLI]([link-to-your-repo](https://github.com/genesshoan/task-tracker))
+> Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.
+- **Tech Stack:** Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ
+- **Features:** Multi-category expense tracking, advanced filtering (date/amount/category), summary reports, Command pattern architecture, persistent storage
+- **Status:** Completed
+
+---
+
 ### 📋 [Task Tracker](https://github.com/genesshoan/task-tracker)
 > Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.
 - **Tech Stack:** Java 8+, JSON serialization, file I/O, Gradle build system, JUnit testing
