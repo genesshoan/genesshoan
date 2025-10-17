@@ -1,14 +1,14 @@
 <div align="center">
 
 # Hi there, I'm Shoan Genes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-### Backend Developer in Training 💻 | Cat Lover 🐱 | Problem Solver 🧩
+### Backend Developer in Training 💻
+![Banner](./banner.png)
+### Backend Developer in Training 💻
 [![GitHub followers](https://img.shields.io/github/followers/genesshoan?style=social)](https://github.com/genesshoan)
 [![GitHub stars](https://img.shields.io/github/stars/genesshoan?style=social)](https://github.com/genesshoan)
 
 </div>
 
----
 ## 🐈 About Me
 <img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZqN2tucm1qYWYzaDhibXpnNnQ0dGhvZTcxMmt4Y3A0YWNydG13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kLCUC3Ntg8V3Mq7QdK/giphy.gif" />
 
@@ -20,7 +20,6 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 - 💻 Love working on **practical projects**, especially console applications  
 - 🎯 Always looking for new challenges and learning opportunities  
 - 📍 Based in Uruguay  
----
 
 ## 🛠️ Tech Stack
 
@@ -43,9 +42,6 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-
----
-
 ## 🌱 Currently Learning
 <img align="right" width=220px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
 
@@ -59,8 +55,6 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 > *"The best way to learn programming is by writing programs"*  
 > – and I do that with a cat on my lap! 🐱  
 
----
-
 ## 🎓 Education
 
 ### 🚀 JetBrains Academy
@@ -73,8 +67,6 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 - Strong foundation in programming fundamentals
 - Emphasis on practical problem-solving
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,8 +76,6 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genesshoan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ## 🚀 Projects
 
@@ -106,48 +96,50 @@ Brief description of the project
 -->
 ### 📋 [Expense Tracker CLI](https://github.com/genesshoan/expense-tracker)
 > Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.
-- **Tech Stack:** Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ
-- **Features:** Multi-category expense tracking, advanced filtering (date/amount/category), summary reports, Command pattern architecture, persistent storage
-- **Status:** Completed
+
+**Tech Stack:** Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ
+**Features:** Multi-category expense tracking, advanced filtering (date/amount/category), summary reports, Command pattern architecture, persistent storage
+**Status:** Completed
 
 ---
 
 ### 📋 [Task Tracker](https://github.com/genesshoan/task-tracker)
 > Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.
-- **Tech Stack:** Java 8+, JSON serialization, file I/O, Gradle build system, JUnit testing
-- **Features:** Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite
-- **Status:** Completed
+
+**Tech Stack:** Java 8+, JSON serialization, file I/O, Gradle build system, JUnit testing
+**Features:** Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite
+**Status:** Completed
 
 ---
 
 ### 🎮 [Simple Tic Tac Toe with Java](https://github.com/genesshoan/Simple-TicTacToe-with-Java)
 > Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.
 
-- **Tech Stack:** Java, OOP, AI algorithms, input validation
-- **Features:** Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation
-- **Status:** Completed
+**Tech Stack:** Java, OOP, AI algorithms, input validation
+**Features:** Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation
+**Status:** Completed
 
 ---
 
 ### 🧮 [Equation System Calculator (C++)](https://github.com/genesshoan/SistemaCalculadora)
 > Console interface for creating, solving and manipulating first and second degree equations.
 
-- **Tech Stack:** C++, custom data structures, Binary Search Tree, file persistence (.dat)
-- **Features:** BST implementation, command parsing, equation solving and arithmetic operations
-- **Status:** Completed
+**Tech Stack:** C++, custom data structures, Binary Search Tree, file persistence (.dat)
+**Features:** BST implementation, command parsing, equation solving and arithmetic operations
+**Status:** Completed
 
 ---
 
 ### 🎮 [National Poker Tournament (C++)](https://github.com/genesshoan/PokerTournament)
 > Tournament system where each player competes against all others. Modeled with graphs and dynamic structures.
 
-- **Tech Stack:** C++, adjacency matrix graph, linked lists, hash table
-- **Features:** Player and match registration, statistics, connectivity queries, complete tournament system
-- **Status:** Completed
-
-</div>
+**Tech Stack:** C++, adjacency matrix graph, linked lists, hash table
+**Features:** Player and match registration, statistics, connectivity queries, complete tournament system
+**Status:** Completed
 
 ---
+
+</div>
 
 ## 🐾 Fun Facts
 
@@ -157,8 +149,6 @@ Brief description of the project
 - 🧩 I love solving complex database problems
 - 📚 Always reading about new backend technologies
 - 🌙 Night owl programmer (cats love late-night coding too!)
-
----
 
 ## 📫 Let's Connect!
 
