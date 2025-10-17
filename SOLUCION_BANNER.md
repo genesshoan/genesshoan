@@ -38,7 +38,7 @@ El archivo `assets/banner.svg` contenía una referencia a una imagen PNG externa
 
 ### Opción Elegida: Embeber la Imagen como Base64
 
-La solución es **convertir la imagen PNG a formato base64 y embeberlá directamente en el SVG**:
+La solución es **convertir la imagen PNG a formato base64 e incrustarla directamente en el SVG**:
 
 ```xml
 <image xlink:href="data:image/png;base64,iVBORw0KGgo..." x="0" y="0" width="1152" height="768" />
