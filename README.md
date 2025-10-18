@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Shoan Genes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-### Backend Developer in Training 💻
 ![Banner](./banner.png)
-### Backend Developer in Training 💻
 [![GitHub followers](https://img.shields.io/github/followers/genesshoan?style=social)](https://github.com/genesshoan)
 [![GitHub stars](https://img.shields.io/github/stars/genesshoan?style=social)](https://github.com/genesshoan)
 
@@ -42,6 +40,64 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+## 🚀 Projects
+
+<table align="center">
+  <tr>
+    <th>📋 Expense Tracker CLI</th>
+    <th>📋 Task Tracker</th>
+  </tr>
+  <tr>
+    <td>
+      Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.<br>
+      <b>Tech Stack:</b> Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ<br>
+      <b>Features:</b> Multi-category expense tracking, advanced filtering, summary reports, Command pattern architecture, persistent storage<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+    <td>
+      Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.<br>
+      <b>Tech Stack:</b> Java 8+, JSON serialization, file I/O, Gradle, JUnit testing<br>
+      <b>Features:</b> Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+  </tr>
+  <tr>
+    <th>🎮 Simple Tic Tac Toe with Java</th>
+    <th>🧮 Equation System Calculator (C++)</th>
+  </tr>
+  <tr>
+    <td>
+      Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.<br>
+      <b>Tech Stack:</b> Java, OOP, AI algorithms, input validation<br>
+      <b>Features:</b> Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+    <td>
+      Console interface for creating, solving and manipulating first and second degree equations.<br>
+      <b>Tech Stack:</b> C++, custom data structures, Binary Search Tree, file persistence (.dat)<br>
+      <b>Features:</b> BST implementation, command parsing, equation solving and arithmetic operations<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+  </tr>
+  <tr>
+    <th>🎮 National Poker Tournament (C++)</th>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      Tournament system where each player competes against all others, modeled with graphs and dynamic structures.<br>
+      <b>Tech Stack:</b> C++, adjacency matrix graph, linked lists, hash table<br>
+      <b>Features:</b> Player and match registration, statistics, connectivity queries, complete tournament system<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
 ## 🌱 Currently Learning
 <img align="right" width=220px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqejlzZjVraHpqejV1dzEyeHJjcGxpNzB0eW9ma3F2NnhwcXkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" />
 
@@ -75,69 +131,6 @@ I'm constantly expanding my skillset! Here's what I'm working on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genesshoan&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
-## 🚀 Projects
-
-<div align="center">
-
-### Coming Soon! 🎯
-
-*This space is reserved for my awesome projects. Stay tuned!*
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="Coding">
-
-<!-- Template for future projects:
-### 📋 [Project Name](link)
-Brief description of the project
-- **Tech Stack:** Language, Framework, Database
-- **Features:** Key features
-- **Status:** In Progress/Completed
--->
-### 📋 [Expense Tracker CLI](https://github.com/genesshoan/expense-tracker)
-> Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.
-
-**Tech Stack:** Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ
-**Features:** Multi-category expense tracking, advanced filtering (date/amount/category), summary reports, Command pattern architecture, persistent storage
-**Status:** Completed
-
----
-
-### 📋 [Task Tracker](https://github.com/genesshoan/task-tracker)
-> Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.
-
-**Tech Stack:** Java 8+, JSON serialization, file I/O, Gradle build system, JUnit testing
-**Features:** Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite
-**Status:** Completed
-
----
-
-### 🎮 [Simple Tic Tac Toe with Java](https://github.com/genesshoan/Simple-TicTacToe-with-Java)
-> Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.
-
-**Tech Stack:** Java, OOP, AI algorithms, input validation
-**Features:** Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation
-**Status:** Completed
-
----
-
-### 🧮 [Equation System Calculator (C++)](https://github.com/genesshoan/SistemaCalculadora)
-> Console interface for creating, solving and manipulating first and second degree equations.
-
-**Tech Stack:** C++, custom data structures, Binary Search Tree, file persistence (.dat)
-**Features:** BST implementation, command parsing, equation solving and arithmetic operations
-**Status:** Completed
-
----
-
-### 🎮 [National Poker Tournament (C++)](https://github.com/genesshoan/PokerTournament)
-> Tournament system where each player competes against all others. Modeled with graphs and dynamic structures.
-
-**Tech Stack:** C++, adjacency matrix graph, linked lists, hash table
-**Features:** Player and match registration, statistics, connectivity queries, complete tournament system
-**Status:** Completed
-
----
 
 </div>
 
