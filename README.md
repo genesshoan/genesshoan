@@ -40,60 +40,64 @@ Hey! I'm a passionate backend developer who loves crafting robust server-side so
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Some of my projects...
 
 <table align="center">
   <tr>
+    <th>💾 File Storage Server</th>
     <th>📋 Expense Tracker CLI</th>
-    <th>📋 Task Tracker</th>
   </tr>
   <tr>
+    <td>
+      Multithreaded TCP file storage server with SQLite integration and thread pooling.<br>
+      <b>Tech Stack:</b> Java 17+, SQLite, HikariCP, Gradle, JUnit 5, Mockito, AssertJ<br>
+      <b>Features:</b> Concurrent file operations (PUT/GET/DELETE), custom TCP protocol, connection pooling, configurable properties, logging, unit testing<br>
+      <b>Status:</b> 🛠️ In Progress – polishing final details and developing the client
+    </td>
     <td>
       Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.<br>
       <b>Tech Stack:</b> Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ<br>
       <b>Features:</b> Multi-category expense tracking, advanced filtering, summary reports, Command pattern architecture, persistent storage<br>
       <b>Status:</b> ✅ Completed
     </td>
+  </tr>
+  <tr>
+    <th>📋 Task Tracker</th>
+    <th>🎮 Simple Tic Tac Toe with Java</th>
+  </tr>
+  <tr>
     <td>
       Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.<br>
       <b>Tech Stack:</b> Java 8+, JSON serialization, file I/O, Gradle, JUnit testing<br>
       <b>Features:</b> Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite<br>
       <b>Status:</b> ✅ Completed
     </td>
-  </tr>
-  <tr>
-    <th>🎮 Simple Tic Tac Toe with Java</th>
-    <th>🧮 Equation System Calculator (C++)</th>
-  </tr>
-  <tr>
     <td>
       Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.<br>
       <b>Tech Stack:</b> Java, OOP, AI algorithms, input validation<br>
       <b>Features:</b> Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation<br>
       <b>Status:</b> ✅ Completed
     </td>
+  </tr>
+  <tr>
+    <th>🧮 Equation System Calculator (C++)</th>
+    <th>🎮 National Poker Tournament (C++)</th>
+  </tr>
+  <tr>
     <td>
       Console interface for creating, solving and manipulating first and second degree equations.<br>
       <b>Tech Stack:</b> C++, custom data structures, Binary Search Tree, file persistence (.dat)<br>
       <b>Features:</b> BST implementation, command parsing, equation solving and arithmetic operations<br>
       <b>Status:</b> ✅ Completed
     </td>
-  </tr>
-  <tr>
-    <th>🎮 National Poker Tournament (C++)</th>
-    <td></td>
-  </tr>
-  <tr>
     <td>
       Tournament system where each player competes against all others, modeled with graphs and dynamic structures.<br>
       <b>Tech Stack:</b> C++, adjacency matrix graph, linked lists, hash table<br>
       <b>Features:</b> Player and match registration, statistics, connectivity queries, complete tournament system<br>
       <b>Status:</b> ✅ Completed
     </td>
-    <td></td>
   </tr>
 </table>
-
 
 
 
