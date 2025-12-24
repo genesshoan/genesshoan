@@ -8,7 +8,7 @@
 ## 🐈 About Me
 
 <div align="center">
-  <img src="assets/me.jpg" width="140" style="border-radius:50%">
+  <img src="assets/me.svg" width="140">
 </div>
 
 I am a backend-focused software developer with a strong interest in building reliable, well-structured systems. My work is mainly centered around core application logic, data persistence, and system behavior rather than user interfaces. I enjoy designing solutions where correctness, clarity, and maintainability are the primary goals.
