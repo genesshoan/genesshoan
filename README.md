@@ -46,37 +46,37 @@ Outside of coding, I value a calm and focused working environment, often accompa
 <table align="center">
   <tr>
     <th>💾 File Storage Server</th>
-    <th>📋 Expense Tracker CLI</th>
+    <th>🍮 Dessert Management System</th>
   </tr>
   <tr>
     <td>
       Multithreaded TCP file storage server with SQLite integration and thread pooling.<br>
       <b>Tech Stack:</b> Java 17+, SQLite, HikariCP, Gradle, JUnit 5, Mockito, AssertJ<br>
       <b>Features:</b> Concurrent file operations (PUT/GET/DELETE), custom TCP protocol, connection pooling, configurable properties, logging, unit testing<br>
-      <b>Status:</b> 🛠️ In Progress – polishing final details and developing the client
+      <b>Status:</b> 🛠️ In Progress
     </td>
+    <td>
+      Distributed desktop application for managing a dessert catalog and sales, built with Java RMI for client-server communication.<br>
+      <b>Tech Stack:</b> Java 21, Java RMI, Java Swing, Maven<br>
+      <b>Features:</b> Multi-client concurrency with custom readers-writers Monitor, DTO pattern, serialization-based persistence, SwingWorker async loading<br>
+      <b>Status:</b> ✅ Completed
+    </td>
+  </tr>
+  <tr>
+    <th>📋 Expense Tracker CLI</th>
+    <th>📋 Task Tracker</th>
+  </tr>
+  <tr>
     <td>
       Command-line expense management application with flexible filtering, categorization, and persistent JSON storage.<br>
       <b>Tech Stack:</b> Java 11+, PicoCLI, Gson, Gradle, JUnit + AssertJ<br>
       <b>Features:</b> Multi-category expense tracking, advanced filtering, summary reports, Command pattern architecture, persistent storage<br>
       <b>Status:</b> ✅ Completed
     </td>
-  </tr>
-  <tr>
-    <th>📋 Task Tracker</th>
-    <th>🎮 Simple Tic Tac Toe with Java</th>
-  </tr>
-  <tr>
     <td>
       Console-based task management application with comprehensive CRUD operations and cross-platform data persistence.<br>
       <b>Tech Stack:</b> Java 8+, JSON serialization, file I/O, Gradle, JUnit testing<br>
       <b>Features:</b> Smart status management (TODO/IN_PROGRESS/DONE), cross-platform data storage, robust error handling, comprehensive test suite<br>
-      <b>Status:</b> ✅ Completed
-    </td>
-    <td>
-      Console-based game featuring multiple game modes including an unbeatable MinMax AI opponent.<br>
-      <b>Tech Stack:</b> Java, OOP, AI algorithms, input validation<br>
-      <b>Features:</b> Unbeatable MinMax AI, Random AI, modular architecture, strategy pattern implementation<br>
       <b>Status:</b> ✅ Completed
     </td>
   </tr>
@@ -99,7 +99,6 @@ Outside of coding, I value a calm and focused working environment, often accompa
     </td>
   </tr>
 </table>
-
 
 
 
