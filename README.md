@@ -7,10 +7,6 @@
 
 ## 🐈 About Me
 
-<div align="center">
-  <img src="assets/me.svg" width="140">
-</div>
-
 I am a backend-focused software developer with a strong interest in building reliable, well-structured systems. My work is mainly centered around core application logic, data persistence, and system behavior rather than user interfaces. I enjoy designing solutions where correctness, clarity, and maintainability are the primary goals.
 
 I'm currently developing REST APIs with Spring Boot, applying backend engineering concepts — authentication, database design, testing, and infrastructure — in realistic, production-shaped applications rather than simple CRUD exercises. I'm particularly interested in the reasoning behind technical decisions: why a given approach to concurrency, data modeling, or system architecture is the right trade-off for a given problem.
